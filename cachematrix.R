@@ -5,6 +5,7 @@
 ##              3. set the inverse
 ##              4. get the inverse
 ##         this list is used as the input to cacheSolve()
+## Two functions for make a vector and get the answer.
 
 makeCacheMatrix <- function(x = matrix()) {
 
